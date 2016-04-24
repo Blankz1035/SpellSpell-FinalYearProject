@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\ARM\Debug\SpellSpell_1.0.2.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\AppPackages\SpellSpell_1.0.2.0_Debug_Test\SpellSpell_1.0.2.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\ARM\Debug\SpellSpell_1.0.2.0_scale-100.appx
+ResourcePack=C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\ARM\Debug\SpellSpell_1.0.2.0_scale-125.appx

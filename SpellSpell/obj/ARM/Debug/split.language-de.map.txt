@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-de"
+"ResourceDimensions"		"language-de-de"
+
+[Files]
+"C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\obj\ARM\Debug\split.language-de.pri"			"resources.pri"

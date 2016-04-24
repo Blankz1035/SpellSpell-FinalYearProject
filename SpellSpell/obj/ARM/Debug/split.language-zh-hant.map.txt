@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hant"
+"ResourceDimensions"		"language-zh-tw"
+
+[Files]
+"C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\obj\ARM\Debug\split.language-zh-hant.pri"			"resources.pri"

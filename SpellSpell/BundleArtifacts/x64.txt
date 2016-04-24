@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\x64\Debug\SpellSpell_1.0.2.0_x64_Debug.appx
+SymbolPackage=C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\AppPackages\SpellSpell_1.0.2.0_Debug_Test\SpellSpell_1.0.2.0_x64_Debug.appxsym

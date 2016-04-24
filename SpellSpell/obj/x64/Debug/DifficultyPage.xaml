@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="SpellSpell.DifficultyPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SpellSpell"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FFB5FBF5">
+        <SplitView x:ConnectionId='1' x:Name="MySplitView" DisplayMode="CompactOverlay"  IsPaneOpen="False" 
+               CompactPaneLength="51" OpenPaneLength="150">
+            <SplitView.Pane>
+                <StackPanel Background="#FFB4B4B4">
+                    <Button x:ConnectionId='2' x:Name="HamburgerButton" FontFamily="Segoe MDL2 Assets" Content="&#xE700;"
+                    Width="50" Height="50" Background="Transparent"                               HorizontalAlignment="Right" Margin="0,0,100,0"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='6' x:Name="MenuButton1" FontFamily="Segoe MDL2 Assets" Content="&#xE768;"
+                    Width="50" Height="50" Background="Transparent"                            />
+                        <TextBlock Text="Play Spell" FontSize="18" VerticalAlignment="Center" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='5' x:Name="MenuButton2" FontFamily="Segoe MDL2 Assets" Content="&#xE81D;"
+                        Width="50" Height="50" Background="Transparent"                            />
+                        <TextBlock Text="Difficulty" FontSize="18" VerticalAlignment="Center" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='4' x:Name="MenuButton3" FontFamily="Segoe MDL2 Assets" Content="&#xE909;"
+                        Width="50" Height="50" Background="Transparent"                            />
+                        <TextBlock Text="High Scores" FontSize="18" VerticalAlignment="Center" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:ConnectionId='3' x:Name="MenuButton4" FontFamily="Segoe MDL2 Assets" Content="&#xE909;"
+                        Width="50" Height="50" Background="Transparent"                          />
+                        <TextBlock Text="Login" FontSize="18" VerticalAlignment="Center" />
+                    </StackPanel>
+                </StackPanel>
+            </SplitView.Pane>
+            <SplitView.Content>
+                <Grid>
+                    <TextBlock Text="SpellSpell" FontSize="54" Foreground="Gold"
+                           HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,30,10,539" Width="290" SelectionHighlightColor="#FF19CB71" FontFamily="Rockwell Extra Bold" FontWeight="Bold" FontStyle="Italic" Height="91"/>
+                    <GridView x:ConnectionId='7' x:Name="gridView" HorizontalAlignment="Left" Margin="54,229,0,0" VerticalAlignment="Top" Width="190" Height="348">
+                        <RadioButton x:ConnectionId='10' x:Name="radioButton" Content="3 Letter words"  Width="180"                    />
+                        <RadioButton x:ConnectionId='11' x:Name="radioButton1" Content="4 Letter words" Width="180"                    />
+                        <RadioButton x:ConnectionId='12' x:Name="radioButton2" Content="5 Letter words" Width="180"                    />
+                        <RadioButton x:ConnectionId='13' x:Name="radioButton3" Content="6 Letter words" Width="190"                    />
+                        <RadioButton x:ConnectionId='14' x:Name="radioButton4" Content="7 Letter words" Width="180"                    />
+                        <RadioButton x:ConnectionId='15' x:Name="radioButton5" Content="8 Letter words" Width="180"                    />
+                    </GridView>
+                    <TextBlock x:ConnectionId='8' x:Name="testBlock" HorizontalAlignment="Left" Margin="112,147,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontFamily="Rockwell" FontSize="17.333" Foreground="#FFE40606"/>
+                    <Button x:ConnectionId='9' x:Name="clearDifficultyBtn" Content="Clear" HorizontalAlignment="Left" Margin="179,555,0,0" VerticalAlignment="Top"                                 />
+                </Grid>
+            </SplitView.Content>
+        </SplitView>
+    </Grid>
+</Page>
+
