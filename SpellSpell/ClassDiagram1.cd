@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpellSpell.AddScore" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>AddScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpellSpell.App" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAQAAAQAAIAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpellSpell.DifficultyPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAAAAAAAAAAAAAAQAAAABAAQACABAAAAIAAg=</HashCode>
+      <FileName>DifficultyPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpellSpell.HighScores" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAEAQAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAEAA=</HashCode>
+      <FileName>HighScores.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpellSpell.loginPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAEAQAAQAAAAAABAAAAAAgAAACQAAAACAAAABAA=</HashCode>
+      <FileName>loginPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpellSpell.MainPage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQQAAAAAQEgAFAAgAAZAAAQAAAAAAAQIAAonAAAAAEA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

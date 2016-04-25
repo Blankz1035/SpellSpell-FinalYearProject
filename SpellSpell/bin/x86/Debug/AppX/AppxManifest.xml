@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="367b7995-0938-4ae1-806f-3ff745bca9a3" Publisher="CN=Andy" Version="1.0.1.0" ProcessorArchitecture="x86" />
+  <Identity Name="367b7995-0938-4ae1-806f-3ff745bca9a3" Publisher="CN=Andy" Version="1.0.2.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="367b7995-0938-4ae1-806f-3ff745bca9a3" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>SpellSpell</DisplayName>

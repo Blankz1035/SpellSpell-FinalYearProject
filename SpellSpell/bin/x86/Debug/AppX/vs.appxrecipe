@@ -9,26 +9,26 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>367b7995-0938-4ae1-806f-3ff745bca9a3</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>F06CD7C6DD292FAD6A1B09D6EF9DE82F8C1965AA6624183DB36BBC82BE5CE2C6</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>367b7995-0938-4ae1-806f-3ff745bca9a3_1.0.1.0_x86__nsf9e2fmhb1sj</RegisteredPackageMoniker>
+    <IntermediateOutputPath>C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>38CA150CDE61533FFDEC22FBF68A415ADB8B16A2D72268C5810BAD3D992465F6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>367b7995-0938-4ae1-806f-3ff745bca9a3_1.0.2.0_x86__nsf9e2fmhb1sj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>367b7995-0938-4ae1-806f-3ff745bca9a3_nsf9e2fmhb1sj!App</RegisteredUserModeAppID>
     <RegisteredPackageID>367b7995-0938-4ae1-806f-3ff745bca9a3</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Andy</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.1.0</RegisteredVersion>
+    <RegisteredVersion>1.0.2.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-04-24T17:07:14.725</Modified>
+      <Modified>2016-04-25T10:17:58.756</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\x86\Debug\SpellSpell.exe">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\bin\x86\Debug\SpellSpell.exe">
       <PackagePath>entrypoint\SpellSpell.exe</PackagePath>
-      <Modified>2016-04-24T17:06:32.554</Modified>
+      <Modified>2016-04-25T10:17:53.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andy\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -474,70 +474,70 @@
       <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
       <Modified>2016-04-22T18:02:58.230</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-03-02T14:40:07.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-18T20:13:52.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-18T20:06:52.995</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <Modified>2016-04-24T17:00:39.768</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square44x44Logo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square44x44Logo.targetsize-24.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
       <Modified>2016-04-24T16:58:20.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square88x88Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square88x88Logo.scale-200.png">
       <PackagePath>Assets\Square88x88Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-04-24T17:05:29.689</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2015-10-10T21:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-18T20:19:11.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-18T20:12:05.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <Modified>2015-10-10T21:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <Modified>2015-10-10T21:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-03-18T20:04:10.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T21:09:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2016-03-02T14:39:43.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\x86\Debug\SpellSpell.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\bin\x86\Debug\SpellSpell.xr.xml">
       <PackagePath>SpellSpell.xr.xml</PackagePath>
       <Modified>2016-04-13T17:58:11.722</Modified>
     </AppxPackagedFile>
@@ -545,13 +545,13 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-02-10T20:31:27.661</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-04-24T17:07:14.196</Modified>
+      <Modified>2016-04-25T10:17:57.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell\bin\x86\Debug\Core\SpellSpell.exe">
+    <AppxPackagedFile Include="C:\Users\Andy\Documents\Visual Studio 2015\Projects\SpellSpell\SpellSpell-FinalYearProject\SpellSpell\bin\x86\Debug\Core\SpellSpell.exe">
       <PackagePath>SpellSpell.exe</PackagePath>
-      <Modified>2016-04-24T17:07:14.711</Modified>
+      <Modified>2016-04-25T10:17:58.712</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
